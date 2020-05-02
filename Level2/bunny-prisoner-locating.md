@@ -5,13 +5,10 @@ Keeping track of Commander Lambda's many bunny prisoners is starting to get tric
 
 The LAMBCHOP doomsday device takes up much of the interior of Commander Lambda's space station, and as a result the prison blocks have an unusual layout. They are stacked in a triangular shape, and the bunny prisoners are given numerical IDs starting from the corner, as follows:
 
-| 7
-
-| 4 8
-
-| 2 5 9
-
-| 1 3 6 10
+    | 7
+    | 4 8
+    | 2 5 9
+    | 1 3 6 10
 
 Each cell can be represented as points (x, y), with x being the distance from the vertical wall, and y being the height from the ground. 
 
@@ -29,13 +26,19 @@ Test cases
 ==========
 
 Inputs:
+
     (int) x = 3
     (int) y = 2
+    
 Output:
+
     (string) "9"
 
 Inputs:
+
     (int) x = 5
     (int) y = 10
+    
 Output:
+
     (string) "96"
