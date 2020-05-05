@@ -23,11 +23,11 @@ The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect bi
 ####Input:
 Solution.solution(5, {19, 14, 28})
 
-####Output:
+#### Output:
     21,15,29
 
-####Input:
+#### Input:
 Solution.solution(3, {7, 3, 5, 1})
 
-####Output:
+#### Output:
     -1,7,6,3
