@@ -21,13 +21,13 @@ The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect bi
 ### Test Cases:
 
 #### Input:
-Solution.solution(5, {19, 14, 28})
+    Solution.solution(5, {19, 14, 28})
 
 #### Output:
     21,15,29
 
 #### Input:
-Solution.solution(3, {7, 3, 5, 1})
+    Solution.solution(3, {7, 3, 5, 1})
 
 #### Output:
     -1,7,6,3
