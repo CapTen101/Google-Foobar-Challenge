@@ -20,7 +20,7 @@ The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect bi
 
 ### Test Cases:
 
-####Input:
+#### Input:
 Solution.solution(5, {19, 14, 28})
 
 #### Output:
